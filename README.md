@@ -4,9 +4,9 @@
 
 ![Scikit-Learner](ml-algorithm.png)
 
-![train model](train-model.png)
+![train model](train-model.PNG)
 
-![predict model](predict-model.png)
+![predict model](predict-model.PNG)
 
 ## reference
 
