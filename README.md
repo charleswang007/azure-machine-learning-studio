@@ -1,5 +1,13 @@
 # azure-machine-learning-studio
 
+![https://yourfreetemplates.com/free-machine-learning-diagram/](ml-flow.png)
+
+![Scikit-Learner](ml-algorithm.png)
+
+![train model](train-model.png)
+
+![predict model](predict-model.png)
+
 ## reference
 
 [用 Microsoft Azure Machine Learning Studio 學 AI](https://ithelp.ithome.com.tw/articles/10200671)
